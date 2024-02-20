@@ -4,7 +4,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 # Tableau Story Presentation
 View the analysis:
-[CitiBike Analysis](https://public.tableau.com/shared/243TPRY56?:display_count=n&:origin=viz_share_link)
+[CitiBike Analysis](https://public.tableau.com/app/profile/haylee.mclean/viz/shared/243TPRY56)
 
 
 

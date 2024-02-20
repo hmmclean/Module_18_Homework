@@ -59,15 +59,11 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 Analysis:
 
-The larger the circle the more popular the station. 
-
 The sustained popularity of these top stations suggests the likelihood of multiple factors influencing user choices. Factors such as convenience, proximity to essential amenities, recreational destinations, and accessibility to other transportation modes are conceivable contributors shaping users' preferences for these locations. The consistent appeal of Grove St Path and South Waterfront Walkway suggests that users are likely drawn to these stations not only for their immediate utility but also for their strategic positioning in relation to other services, attractions, or transportation options. This insight suggests that a comprehensive understanding of user behavior necessitates considering a myriad of elements beyond mere point-to-point travel, encompassing the broader context of users' needs and preferences in choosing specific bike rental locations.
 
 <b>8. How is station popularity changing over time?</b>
 
 Analysis:
-
-The larger the circle the more popular the station. 
 
 Viewing the map detailing user access to bike stations reveals a discernible spatial pattern. Stations located in proximity to the waterfront exhibit a higher degree of popularity among users. This spatial correlation suggests a preference for locations offering scenic routes or recreational access along the waterfront. By toggling between July 2022 and July 2023, the evolving nature of the map can be seen, marked by the addition of new stations and fluctuations in popularity among existing ones, signifies the dynamic nature of user preferences and infrastructure development. While certain stations experience growth or decline in popularity over time, the overarching trend indicates the enduring appeal of specific, strategically positioned stations. The consistency in the popularity of certain stations demonstrates their resilience amidst changes, emphasizing the enduring significance of geographic factors and user preferences in shaping the utilization patterns of bike-sharing systems.
 

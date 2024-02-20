@@ -3,7 +3,7 @@
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site (https://citibikenyc.com/system-data). However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so a dashboard was built to gain insight into the answers. Two months were compared, July of 2022 against July of 2023. This data was chosen as it is a fair-weather month, has one major holiday, and has relevant data available for comparison. The two comparisons were for the Jersey City program. 
 
 # Tableau Story Presentation
-View the analysis:
+View the interactive analysis:
 [CitiBike Analysis](https://public.tableau.com/app/profile/tia.scott/viz/CitiBike_17082937524380/Story1?publish=yes)
 
 
@@ -117,7 +117,7 @@ The sustained popularity of these top stations suggests the likelihood of multip
 
 
 <p align="center">
-<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/ending_map.png" width="650">
+<img src="https://github.com/tiascott01/18_Tableau_Challenge/blob/main/Assets/ending_map.png" width="450">
 </p>
 
 
@@ -143,6 +143,7 @@ Viewing the map detailing user access to bike stations reveals a discernible spa
     * combined_citibike_tripdata - CSV of combined files for upload into Tableau.
     * pierre-jarry-unsplash_bikes - jpg picture for Tableau story.
 * CitiBike - Tableau Workbook file.
+* Assets Folder - Images for the ReadMe workbook.
 
 # References and Resources
 * Citi Bike Data Website - https://citibikenyc.com/system-data
